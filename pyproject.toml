@@ -1,0 +1,6 @@
+[project]
+name = "odom_transformer"
+version = "0.1.0"
+
+[tool.setuptools]
+packages = ["odom_transformer"]
